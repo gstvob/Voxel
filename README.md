@@ -18,8 +18,8 @@ Very small and simple voxel landscape generator
 
 ![Example](external/screenshot.png "Example")
 
-Sources:
-[LearnOpenGL website/book](https://learnopengl.com/)
-[Lets make a voxel engine](https://sites.google.com/site/letsmakeavoxelengine/home/)
-[Perlin noise tutorial](https://www.youtube.com/watch?v=kCIaHqb60Cw)
+Sources:\
+[LearnOpenGL website/book](https://learnopengl.com/)\
+[Lets make a voxel engine](https://sites.google.com/site/letsmakeavoxelengine/home/)\
+[Perlin noise tutorial](https://www.youtube.com/watch?v=kCIaHqb60Cw)\
 [Minecraft clone in C++](https://www.youtube.com/watch?v=v0Ks1dCMlAA)
